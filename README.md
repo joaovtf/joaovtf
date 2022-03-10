@@ -1,7 +1,7 @@
 **Oi** ! **Eu sou o João** 👋
 
-- 🏡 Belo Horizonte - Brazil
-- 🌱 Atualmente estudo programação
+- 🏠 Belo Horizonte - Brazil
+- 🖥️Atualmente estudo programação
 
 
 <div>
